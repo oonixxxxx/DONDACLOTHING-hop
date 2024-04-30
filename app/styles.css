@@ -111,3 +111,30 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.footer {
+    margin-top: 70px;
+    background-color: black;
+}
+
+.footer-title {
+    font-size: 197px;
+    color: white;
+    font-family: "Mohave", sans-serif;
+    
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-contacts {
+    font-size: 30px;
+    color: white;
+    font-family: "Mohave", sans-serif;
+
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
