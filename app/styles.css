@@ -77,11 +77,12 @@ body {
 
 .card-holder {
     display:inline-block;
+    justify-content: center;
 }
 
 .card {
     display:inline-block;
-    padding-left: 170px;
+    margin-left: 170px;
     justify-content: center;
 }
 
