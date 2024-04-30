@@ -3,4 +3,4 @@
 __Prewiew:__
 
 
-![](https://github.com/oonixxxxx/DONDACLOTHING-hop/blob/main/photos/video_2024-04-30_14-25-12.gif)
+![](https://github.com/oonixxxxx/clothing-store/blob/main/materials/readmevideo.gif)
