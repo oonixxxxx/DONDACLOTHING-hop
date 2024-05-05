@@ -2,5 +2,7 @@
 
 __Prewiew:__
 
+![](https://github.com/oonixxxxx/clothing-store/blob/main/materials/prewiev.png)
+
 
 ![](https://github.com/oonixxxxx/clothing-store/blob/main/materials/readmevideo.gif)
